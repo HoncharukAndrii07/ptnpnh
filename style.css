@@ -45,6 +45,7 @@ p {
 }
 
 .menu-item:hover {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,201) 35%, rgba(0,120,144));
     background-color: aquamarine;
     border-radius: 15px;
 }
